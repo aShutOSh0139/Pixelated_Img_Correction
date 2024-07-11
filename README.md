@@ -1,6 +1,6 @@
 # Pixelated Image Detection and Correction
 
-![Depixelation Example](https://github.com/nafis71041/pixelation_correction/blob/main/depixelation_examples/success4_protest_4x_lanczos_nearest.png)
+![Depixelation Example](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelation_examples/success4_protest_4x_lanczos_nearest.png)
 *Pixelated image (left), depixelated by our model (middle), and the ground truth (right)*
 
 ## Problem Statement
@@ -9,18 +9,18 @@ Pixelation is a common issue in images, leading to a loss of quality and importa
 
 ## Description
 
-This repository contains two primary models: a [detector model](https://github.com/nafis71041/pixelation_correction/blob/main/detector_005_1_50.keras) to identify pixelated images and a [depixelator model](https://github.com/nafis71041/pixelation_correction/blob/main/depixelator_004_2.keras) to restore pixelated images to their original quality. Both models were inspired by the U-Net architecture but optimized for efficiency using depthwise and pointwise convolutions.
+This repository contains two primary models: a [detector model](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1_50.keras) to identify pixelated images and a [depixelator model](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_004_2.keras) to restore pixelated images to their original quality. Both models were inspired by the U-Net architecture but optimized for efficiency using depthwise and pointwise convolutions.
 
 ## Repository Structure
 
 ### Project Report
-- **[Project Report.pdf](https://github.com/nafis71041/pixelation_correction/blob/main/Project%20Report.pdf)**
+- **[Project Report.pdf](https://github.com/aShutOSh0139/pixelation_correction/blob/main/Project%20Report.pdf)**
 
 Project report can be found here.
 
 ### Testing Files
-- **[detector_testing.ipynb](https://github.com/nafis71041/pixelation_correction/blob/main/detector_testing.ipynb)**
-- **[depixelator_testing.ipynb](https://github.com/nafis71041/pixelation_correction/blob/main/depixelator_testing.ipynb)**
+- **[detector_testing.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_testing.ipynb)**
+- **[depixelator_testing.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_testing.ipynb)**
 
 These are the testing files. Users should follow the instructions in these files to test our detector and depixelator models.
 
@@ -35,25 +35,25 @@ These are the testing files. Users should follow the instructions in these files
 4. **Test the Model:** Follow the steps provided in the testing files to effectively test the models on your dataset.
 
 ### Training Files
-- **[detector_training.ipynb](https://github.com/nafis71041/pixelation_correction/blob/main/detector_training.ipynb)**
-- **[depixelator_training.ipynb](https://github.com/nafis71041/pixelation_correction/blob/main/depixelator_training.ipynb)**
+- **[detector_training.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_training.ipynb)**
+- **[depixelator_training.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_training.ipynb)**
 
 These are the training files used for our detector and depixelator models. They are included for reference to show how we trained our models.
 
 ### Model Architectures
-- **[detector_005_1.png](https://github.com/nafis71041/pixelation_correction/blob/main/detector_005_1.png)**
-- **[depixelator_004_2.png](https://github.com/nafis71041/pixelation_correction/blob/main/depixelator_004_2.png)**
+- **[detector_005_1.png](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1.png)**
+- **[depixelator_004_2.png](https://github.com/aShutOSh01391/pixelation_correction/blob/main/depixelator_004_2.png)**
 
 These images depict the detailed architectures of our models.
 
 ### Pre-trained Models
-- **[detector_005_1_50.keras](https://github.com/nafis71041/pixelation_correction/blob/main/detector_005_1_50.keras)**
-- **[depixelator_004_2.keras](https://github.com/nafis71041/pixelation_correction/blob/main/depixelator_004_2.keras)**
+- **[detector_005_1_50.keras](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1_50.keras)**
+- **[depixelator_004_2.keras](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_004_2.keras)**
 
 These files contain the pre-trained models with their corresponding architectures.
 
 ### Depixelation Examples
-- **[Depixelation Examples](https://github.com/nafis71041/pixelation_correction/tree/main/depixelation_examples)**
+- **[Depixelation Examples](https://github.com/aShutOSh0139/pixelation_correction/tree/main/depixelation_examples)**
 
 This folder contains some successful and unsuccessful depixelation examples from our model.
 
