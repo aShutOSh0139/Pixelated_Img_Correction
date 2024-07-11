@@ -35,25 +35,25 @@ These are the testing files. Users should follow the instructions in these files
 4. **Test the Model:** Follow the steps provided in the testing files to effectively test the models on your dataset.
 
 ### Training Files
-- **[detector_training.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_training.ipynb)**
-- **[depixelator_training.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_training.ipynb)**
+- **[detector_training.ipynb](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/detector_training.ipynb)**
+- **[depixelator_training.ipynb](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/depixelator_training.ipynb)**
 
 These are the training files used for our detector and depixelator models. They are included for reference to show how we trained our models.
 
 ### Model Architectures
-- **[detector_005_1.png](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1.png)**
-- **[depixelator_004_2.png](https://github.com/aShutOSh01391/pixelation_correction/blob/main/depixelator_004_2.png)**
+- **[detector_005_1.png](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/detector_005_1.png)**
+- **[depixelator_004_2.png](https://github.com/aShutOSh01391/Pixelated_Img_Correction/blob/main/depixelator_004_2.png)**
 
 These images depict the detailed architectures of our models.
 
 ### Pre-trained Models
-- **[detector_005_1_50.keras](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1_50.keras)**
-- **[depixelator_004_2.keras](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_004_2.keras)**
+- **[detector_005_1_50.keras](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/detector_005_1_50.keras)**
+- **[depixelator_004_2.keras](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/depixelator_004_2.keras)**
 
 These files contain the pre-trained models with their corresponding architectures.
 
 ### Depixelation Examples
-- **[Depixelation Examples](https://github.com/aShutOSh0139/pixelation_correction/tree/main/depixelation_examples)**
+- **[Depixelation Examples](https://github.com/aShutOSh0139/Pixelated_Img_Correction/tree/main/depixelation_examples)**
 
 This folder contains some successful and unsuccessful depixelation examples from our model.
 
