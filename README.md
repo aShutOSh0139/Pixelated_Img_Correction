@@ -9,12 +9,12 @@ Pixelation is a common issue in images, leading to a loss of quality and importa
 
 ## Description
 
-This repository contains two primary models: a [detector model](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_005_1_50.keras) to identify pixelated images and a [depixelator model](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_004_2.keras) to restore pixelated images to their original quality. Both models were inspired by the U-Net architecture but optimized for efficiency using depthwise and pointwise convolutions.
+This repository contains two primary models: a [detector model](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/detector_005_1_50.keras) to identify pixelated images and a [depixelator model](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/depixelator_004_2.keras) to restore pixelated images to their original quality. Both models were inspired by the U-Net architecture but optimized for efficiency using depthwise and pointwise convolutions.
 
 ## Repository Structure
 
 ### Project Report
-- **[Project Report.pdf](https://github.com/aShutOSh0139/pixelation_correction/blob/main/Project%20Report.pdf)**
+- **[Project Report.pdf](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/Project%20Report.pdf)**
 
 Project report can be found here.
 
