@@ -1,6 +1,6 @@
 # Pixelated Image Detection and Correction
 
-![Depixelation Example](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelation_examples/success4_protest_4x_lanczos_nearest.png)
+![Depixelation Example](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/depixelation_examples/success2_flower_4x_lanczos_nearest.png?raw=true)
 *Pixelated image (left), depixelated by our model (middle), and the ground truth (right)*
 
 ## Problem Statement
