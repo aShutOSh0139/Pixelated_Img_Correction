@@ -19,8 +19,8 @@ This repository contains two primary models: a [detector model](https://github.c
 Project report can be found here.
 
 ### Testing Files
-- **[detector_testing.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/detector_testing.ipynb)**
-- **[depixelator_testing.ipynb](https://github.com/aShutOSh0139/pixelation_correction/blob/main/depixelator_testing.ipynb)**
+- **[detector_testing.ipynb](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/detector_testing.ipynb)**
+- **[depixelator_testing.ipynb](https://github.com/aShutOSh0139/Pixelated_Img_Correction/blob/main/depixelator_testing.ipynb)**
 
 These are the testing files. Users should follow the instructions in these files to test our detector and depixelator models.
 
